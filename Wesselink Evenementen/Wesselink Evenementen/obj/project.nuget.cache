@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "itnGa7W1OVT7Yk9lf92IannZGLMVsquRZzDfPE19H4vXdCX/2dpaiccgz16sdWpYFAF6QTbb/9uiegytYpWHog==",
+  "dgSpecHash": "ZORa9CE0oLvUmkSfEyQhrmSPWm0hgsDnTOblu2/jtFLR5ya0tj0XFuJNoH10AqDgsDJ2jmZOId1WvYFghKtG+w==",
   "success": true,
-  "projectFilePath": "D:\\School\\Examen voorbereiding 2020\\Wesselink Evenementen\\Wesselink Evenementen\\Wesselink Evenementen\\Wesselink Evenementen.csproj",
+  "projectFilePath": "D:\\School\\Examen voorbereiding 2020\\Wesselink Evenementen\\Wesselink-Evenementen\\Wesselink Evenementen\\Wesselink Evenementen\\Wesselink Evenementen.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yeray\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],

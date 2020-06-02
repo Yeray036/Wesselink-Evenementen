@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\School\\Examen voorbereiding 2020\\Wesselink Evenementen\\Wesselink Evenementen\\Wesselink Evenementen\\Wesselink Evenementen.csproj",
+      "projectUniqueName": "D:\\School\\Examen voorbereiding 2020\\Wesselink Evenementen\\Wesselink-Evenementen\\Wesselink Evenementen\\Wesselink Evenementen\\Wesselink Evenementen.csproj",
       "projectName": "Wesselink Evenementen",
-      "projectPath": "D:\\School\\Examen voorbereiding 2020\\Wesselink Evenementen\\Wesselink Evenementen\\Wesselink Evenementen\\Wesselink Evenementen.csproj",
+      "projectPath": "D:\\School\\Examen voorbereiding 2020\\Wesselink Evenementen\\Wesselink-Evenementen\\Wesselink Evenementen\\Wesselink Evenementen\\Wesselink Evenementen.csproj",
       "packagesPath": "C:\\Users\\yeray\\.nuget\\packages\\",
-      "outputPath": "D:\\School\\Examen voorbereiding 2020\\Wesselink Evenementen\\Wesselink Evenementen\\Wesselink Evenementen\\obj\\",
+      "outputPath": "D:\\School\\Examen voorbereiding 2020\\Wesselink Evenementen\\Wesselink-Evenementen\\Wesselink Evenementen\\Wesselink Evenementen\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yeray\\AppData\\Roaming\\NuGet\\NuGet.Config",
