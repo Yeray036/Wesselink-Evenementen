@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
@@ -18,12 +19,17 @@ namespace Wesselink_Evenementen.Pages.Accounts
         {
             _db = db;
         }
-
-        public IEnumerable<Verified_Users> Verified_Users { get; set; }
-
+        
         public async Task OnGet()
         {
-            Verified_Users = await _db.Verified_Users.ToListAsync();
+            if (User.Identity.IsAuthenticated)
+            {
+                Response.Redirect("/Account/Index.cshtml");
+            }
+            else
+            {
+                Console.WriteLine("Something went wrong with authentication???");
+            }
         }
     }
 }
