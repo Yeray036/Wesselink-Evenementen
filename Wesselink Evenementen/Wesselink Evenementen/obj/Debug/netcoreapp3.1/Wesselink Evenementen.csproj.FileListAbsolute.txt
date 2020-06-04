@@ -109,8 +109,6 @@ D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\
 D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
 D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
 D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
-D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
-D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
 D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
 D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
@@ -181,16 +179,12 @@ D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\
 D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
 D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
 D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
-D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
 D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
-D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
 D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
 D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
 D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
 D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
 D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
-D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
-D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
 D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
 D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
 D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
@@ -402,6 +396,28 @@ D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\
 D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\obj\Debug\netcoreapp3.1\Razor\Pages\Accounts\Index.cshtml.g.cs
+D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
 D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\obj\Debug\netcoreapp3.1\Wesselink Evenementen.csproj.CoreCompileInputs.cache
 D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\obj\Debug\netcoreapp3.1\Wesselink Evenementen.MvcApplicationPartsAssemblyInfo.cs
 D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\obj\Debug\netcoreapp3.1\Wesselink Evenementen.MvcApplicationPartsAssemblyInfo.cache
+D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\bin\Debug\netcoreapp3.1\Wesselink Evenementen.StaticWebAssets.xml
+D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\obj\Debug\netcoreapp3.1\Razor\Pages\_AuthLayout.cshtml.g.cs
