@@ -14,7 +14,7 @@ namespace Wesselink_Evenementen.Pages.Accounts
     public class IndexModel : PageModel
     {
         private readonly ApplicationDbContext _db;
-
+        
         public IndexModel(ApplicationDbContext db)
         {
             _db = db;
@@ -22,14 +22,6 @@ namespace Wesselink_Evenementen.Pages.Accounts
         
         public async Task OnGet()
         {
-            if (User.Identity.IsAuthenticated)
-            {
-                Response.Redirect("/Account/Index.cshtml");
-            }
-            else
-            {
-                Console.WriteLine("Something went wrong with authentication???");
-            }
         }
     }
 }

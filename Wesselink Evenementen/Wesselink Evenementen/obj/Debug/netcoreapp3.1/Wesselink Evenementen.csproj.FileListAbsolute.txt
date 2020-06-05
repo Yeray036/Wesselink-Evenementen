@@ -11,7 +11,6 @@ D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\
 D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\obj\Debug\netcoreapp3.1\Wesselink Evenementen.TagHelpers.output.cache
 D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\obj\Debug\netcoreapp3.1\Wesselink Evenementen.RazorCoreGenerate.cache
 D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
-D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
 D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
 D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
 D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -406,9 +405,6 @@ D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\
 D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
 D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
 D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
-D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\obj\Debug\netcoreapp3.1\Wesselink Evenementen.csproj.CoreCompileInputs.cache
-D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\obj\Debug\netcoreapp3.1\Wesselink Evenementen.MvcApplicationPartsAssemblyInfo.cs
-D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\obj\Debug\netcoreapp3.1\Wesselink Evenementen.MvcApplicationPartsAssemblyInfo.cache
 D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\bin\Debug\netcoreapp3.1\Wesselink Evenementen.StaticWebAssets.xml
 D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
@@ -421,3 +417,9 @@ D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\
 D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
 D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
 D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\obj\Debug\netcoreapp3.1\Razor\Pages\_AuthLayout.cshtml.g.cs
+D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\obj\Debug\netcoreapp3.1\Wesselink Evenementen.csproj.CoreCompileInputs.cache
+D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\obj\Debug\netcoreapp3.1\Wesselink Evenementen.MvcApplicationPartsAssemblyInfo.cs
+D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\obj\Debug\netcoreapp3.1\Wesselink Evenementen.MvcApplicationPartsAssemblyInfo.cache
+D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\obj\Debug\netcoreapp3.1\Razor\Pages\Evenementen\Index.cshtml.g.cs
+D:\School\Examen voorbereiding 2020\Wesselink Evenementen\Wesselink-Evenementen\Wesselink Evenementen\Wesselink Evenementen\obj\Debug\netcoreapp3.1\Razor\Pages\Contact\Index.cshtml.g.cs

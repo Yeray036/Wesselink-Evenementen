@@ -1,0 +1,8 @@
+﻿body {
+    background: url('https://livestyle.com/wp-content/uploads/2017/07/slider-4.jpg') no-repeat center center fixed !important;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    color: white;
+}
